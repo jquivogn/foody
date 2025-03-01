@@ -1,2 +1,2 @@
 # foody
-just an llm api for what i'am going to cook tonight
+Just an LLM API to decide what I'm going to cook tonight.
